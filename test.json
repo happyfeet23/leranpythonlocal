@@ -1,0 +1,21 @@
+{
+    "name": "John",
+    "age": 30,
+    "city": "Bengaluru",
+    "is_student": false,
+    "hobbies": [
+        "reading",
+        "coding",
+        "gaming"
+    ]
+}{
+    "name": "John",
+    "age": 30,
+    "city": "Bengaluru",
+    "is_student": false,
+    "hobbies": [
+        "reading",
+        "coding",
+        "gaming"
+    ]
+}

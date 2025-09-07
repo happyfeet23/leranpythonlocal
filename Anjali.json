@@ -1,0 +1,11 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "city": "Bengaluru",
+    "is_student": false,
+    "hobbies": [
+        "reading",
+        "coding",
+        "gaming"
+    ]
+}
